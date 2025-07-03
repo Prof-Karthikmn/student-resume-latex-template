@@ -1,12 +1,12 @@
 ---
 
-# 🧑‍💻 Student Resume Template (LaTeX)
+# Student Resume Template (LaTeX)
 
 A clean, minimal LaTeX-based resume template ideal for students, freshers, and early-career professionals.
 
 ---
 
-## 📂 Files Included
+## Files Included
 
 * `resume-template.tex`: The main LaTeX source file (edit this to create your resume)
 * `resume-template.pdf`: Sample output (optional — can be generated using Overleaf or a LaTeX editor)
@@ -15,16 +15,16 @@ A clean, minimal LaTeX-based resume template ideal for students, freshers, and e
 
 ---
 
-## ✨ Features
+## Features
 
-* ✅ One-page modern layout
-* ✅ Custom LaTeX commands for clean formatting
-* ✅ Easy to edit, customize, and expand
-* ✅ Ideal for academic applications, internships, and placement drives
+* One-page modern layout
+* Custom LaTeX commands for clean formatting
+* Easy to edit, customize, and expand
+* Ideal for academic applications, internships, and placement drives
 
 ---
 
-## 🚀 How to Use
+## How to Use
 
 ### Option 1: Overleaf (Recommended)
 
@@ -44,7 +44,7 @@ pdflatex resume-template.tex
 
 ---
 
-## ✏️ Customize
+## Customize
 
 Replace placeholders like:
 
@@ -60,14 +60,14 @@ You can also:
 
 ---
 
-## 🧠 Credits
+## Credits
 
 * Based on original templates by [sb2nov](https://github.com/sb2nov/resume)
 * Enhanced and customized by [Karthik M N](https://www.linkedin.com/in/karthikmn24)
 
 ---
 
-## 📜 License
+## License
 
 This project is licensed under the [MIT License](LICENSE).
 
